@@ -5,7 +5,7 @@ const projects = [
     name: "Blog Website",
     githubLink: "https://github.com/Sachin0001-Legend/blog-web-app.git",
     deployedUrl: "https://weblogs-sachin.vercel.app",
-    imageSrc: "src/assets/blog.png",  
+    imageSrc: "/assets/blog.png",  
   },
   {
     name: "E-Commerce Website",
