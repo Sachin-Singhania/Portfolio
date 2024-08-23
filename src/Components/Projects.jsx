@@ -5,13 +5,13 @@ const projects = [
     name: "Blog Website",
     githubLink: "https://github.com/Sachin0001-Legend/blog-web-app.git",
     deployedUrl: "https://weblogs-sachin.vercel.app",
-    imageSrc: "/src/assets/blog.png",  
+    imageSrc: "src/assets/blog.png",  
   },
   {
     name: "E-Commerce Website",
     githubLink: "https://github.com/Sachin0001-Legend/E-commerce-Web.git",
     deployedUrl: "https://ecommerce-website.vercel.app",
-    imageSrc: "/src/assets/e-commerce.jpg",  
+    imageSrc: "src/assets/e-commerce.jpg",  
   },
 ];
 export function Projects() {
