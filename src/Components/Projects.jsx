@@ -10,7 +10,7 @@ const projects = [
   {
     name: "E-Commerce Website",
     githubLink: "https://github.com/Sachin0001-Legend/E-commerce-Web.git",
-    deployedUrl: "https://ecommerce-website.vercel.app",
+    deployedUrl: "https://wecommerce-website.vercel.app",
     imageSrc: "/e-commerce.jpg",  
   },
 ];
