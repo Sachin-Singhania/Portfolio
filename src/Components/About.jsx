@@ -7,7 +7,7 @@ export function About() {
   return (
     <>
       <nav className="flex items-center justify-between px-8 py-4 md:px-12 lg:px-16 relative">
-        <div className="text-2xl font-bold">SS</div>
+        <div className="text-2xl font-bold">&lt; Sachin /	&gt;</div>
         <div className="md:hidden">
           <button onClick={() => setIsMenuOpen(!isMenuOpen)}>
             {isMenuOpen ? <FaTimes className="text-2xl" /> : <FaBars className="text-2xl" />}
