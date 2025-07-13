@@ -1,12 +1,35 @@
 import git from "./../assets/git.png";
 import icon from "./../assets/north.png";
 const projects = [
-  {
+{
+name: "MockPrep AI",
+ githubLink: "https://github.com/Sachin-Singhania/Ai-MockReady",
+    deployedUrl: "https://prepmock-sachin.vercel.app",
+    imageSrc: "/MockPrep.jpg", 
+},
+{
+name: "AskDocs AI",
+ githubLink: "https://github.com/Sachin-Singhania/AskDocs--AI-RAG",
+    deployedUrl: "https://askdocs-sachin.vercel.app",
+    imageSrc: "/Askdocs.jpg", 
+},
+{
+name: "WeCollab",
+    githubLink: "https://github.com/Sachin-Singhania/WeCollab",
+    deployedUrl: "https://wecollab-sachin.vercel.app",
+    imageSrc: "/WeCollab.jpg", 
+},
+{
     name: "Blog Website",
     githubLink: "https://github.com/Sachin0001-Legend/blog-web-app.git",
     deployedUrl: "https://weblogs-sachin.vercel.app",
     imageSrc: "/blog.png",  
-  },
+},{
+    name:"Document Management System",
+    githubLink:"",
+    deployedUrl:"",
+    imageSrc:"/DMS.jpg"
+},
   {
     name: "E-Commerce Website",
     githubLink: "https://github.com/Sachin0001-Legend/E-commerce-Web.git",
