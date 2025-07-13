@@ -11,7 +11,7 @@ name: "MockPrep AI",
 name: "AskDocs AI",
  githubLink: "https://github.com/Sachin-Singhania/AskDocs--AI-RAG",
     deployedUrl: "https://askdocs-sachin.vercel.app",
-    imageSrc: "/Askdocs.jpg", 
+    imageSrc: "/AskDocs.jpg", 
 },
 {
 name: "WeCollab",
