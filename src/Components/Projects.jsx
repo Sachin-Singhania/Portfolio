@@ -4,13 +4,13 @@ const projects = [
 {
 name: "MockPrep AI",
  githubLink: "https://github.com/Sachin-Singhania/Ai-MockReady",
-    deployedUrl: "https://prepmock-sachin.vercel.app",
+    deployedUrl: "https://mockprepai.vercel.app",
     imageSrc: "/MockPrep.jpg", 
 },
 {
 name: "AskDocs AI",
  githubLink: "https://github.com/Sachin-Singhania/AskDocs--AI-RAG",
-    deployedUrl: "https://askdocs-sachin.vercel.app",
+    deployedUrl: "https://askdocs.vercel.app",
     imageSrc: "/AskDocs.jpg", 
 },
 {
