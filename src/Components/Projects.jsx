@@ -26,8 +26,8 @@ name: "WeCollab",
     imageSrc: "/blog.png",  
 },{
     name:"Document Management System",
-    githubLink:"",
-    deployedUrl:"",
+    githubLink:"https://github.com/Sachin-Singhania/backend-DMS",
+    deployedUrl:"https://dms-organize.vercel.app/",
     imageSrc:"/DMS.jpg"
 },
   {
