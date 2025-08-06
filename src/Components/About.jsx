@@ -59,7 +59,7 @@ export function About() {
                   </a>
                 </button>
                 <button className="px-4 py-2 bg-blue-500 rounded-md hover:bg-blue-600 md:px-6 lg:px-8">
-                  <a href="src/assets/Sachin_Singhania_Resume.pdf" download>
+                  <a href="src/assets/Sachin Resume.pdf" download>
                     Resume
                   </a>
                 </button>
